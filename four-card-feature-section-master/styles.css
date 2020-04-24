@@ -39,4 +39,5 @@ h3 {
 .content-box {
   display: flex;
   flex-drection: column;
+  align-items: center;
 }

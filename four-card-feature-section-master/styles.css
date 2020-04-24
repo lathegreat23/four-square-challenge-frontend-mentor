@@ -24,6 +24,5 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0px;
-  padding: 0px;
+  margin-top: 2000px;
 }

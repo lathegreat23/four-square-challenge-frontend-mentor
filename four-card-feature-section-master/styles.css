@@ -47,6 +47,6 @@ h3 {
   padding: 10px 25px 50px 25px;
   background-color: hsl(0, 0%, 98%);
   box-shadow: 0 0 30px hsl(229, 6%, 66%);
-  border-radius: 12px;
+  border-radius: 5px;
   border-top: solid 7px hsl(0, 78%, 62%);
 }

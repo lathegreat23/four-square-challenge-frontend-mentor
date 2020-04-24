@@ -44,6 +44,7 @@ h3 {
   height: 100px;
   width: 250px;
   margin: 50px 25px;
+  padding: 10px 25px 50px 25px;
   background-color: hsl(0, 0%, 98%);
   box-shadow: 0 0 30px hsl(229, 6%, 66%);
 }

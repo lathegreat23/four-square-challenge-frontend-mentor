@@ -34,6 +34,7 @@ h3 {
 .content-boxes {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .content-box {

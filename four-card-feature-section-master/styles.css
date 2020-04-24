@@ -23,7 +23,7 @@ h3 {
 .top-text {
   display: flex;
   flex-direction: column;
-  align-content: center;
+  align-items: center;
   margin: 0px;
   padding: 0px;
 }

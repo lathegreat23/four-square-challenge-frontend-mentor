@@ -27,17 +27,6 @@ h3 {
   margin-top: 200px;
 }
 
-#top-text-h1 {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-#top-text-h2 {
+.top-text h1, h2, p {
   margin: 0;
-  padding: 0;
-}
-
-#top-text-main {
-  margin-top: 0;
-  padding-top: 0;
 }

@@ -2,7 +2,7 @@ body {
   font-family: Poppins;
   font-size: 15px;
   font-weight: 200;
-  background-color: hsl(0, 0%, 98%);
+  background-color: hsl(229, 6%, 66%);
 }
 
 h1 {
@@ -43,4 +43,5 @@ h3 {
   align-items: center;
   height: 100px;
   width: 250px;
+  background-color: hsl(0, 0%, 98%);
 }

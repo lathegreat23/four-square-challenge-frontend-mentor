@@ -30,3 +30,13 @@ h3 {
 .top-text h1, h2, p {
   margin: 0;
 }
+
+.content-boxes {
+  display: flex;
+  flex-direction: row;
+}
+
+.content-box {
+  display: flex;
+  flex-drection: column;
+}

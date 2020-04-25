@@ -3,6 +3,7 @@ body {
   font-size: 15px;
   font-weight: 200;
   background-color: hsl(0, 0%, 98%);
+  color: hsl(229, 6%, 66%);
 }
 
 h1 {
@@ -13,11 +14,13 @@ h1 {
 h2 {
   font-size: 32px;
   font-weight: 600;
+  color: hsl(234, 12%, 34%);
 }
 
 h3 {
   font-size: 20px;
   font-weight: 400;
+  color: hsl(234, 12%, 34%);
 }
 
 .top-text {

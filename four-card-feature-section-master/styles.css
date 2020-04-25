@@ -31,6 +31,10 @@ h3 {
   margin: 0;
 }
 
+#top-text-main {
+  width: 250px;
+}
+
 .content-boxes {
   display: flex;
   flex-direction: row;

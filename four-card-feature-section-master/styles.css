@@ -49,5 +49,20 @@ h3 {
   background-color: hsl(0, 0%, 98%);
   box-shadow: 0 0 30px hsl(229, 6%, 66%);
   border-radius: 5px;
+}
+
+#sup {
+  border-top: solid 7px hsl(180, 62%, 55%);
+}
+
+#team-builder {
   border-top: solid 7px hsl(0, 78%, 62%);
+}
+
+#karma {
+  border-top: solid 7px  hsl(34, 97%, 64%);
+}
+
+#calc {
+  border-top: solid 7px hsl(212, 86%, 64%);
 }

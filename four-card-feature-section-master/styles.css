@@ -62,6 +62,10 @@ h3 {
   text-align: left;
 }
 
+.content-box-img {
+  align-self: flex-end;
+}
+
 #sup {
   border-top: solid 7px hsl(180, 62%, 55%);
 }

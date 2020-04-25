@@ -29,6 +29,7 @@ h3 {
 
 .top-text h1, h2, p {
   margin: 0;
+  text-align: center;
 }
 
 #top-text-main {

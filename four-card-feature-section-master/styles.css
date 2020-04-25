@@ -58,6 +58,10 @@ h3 {
   text-align: left;
 }
 
+.content-box-body p{
+  text-align: left;
+}
+
 #sup {
   border-top: solid 7px hsl(180, 62%, 55%);
 }

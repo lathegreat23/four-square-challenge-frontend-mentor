@@ -87,3 +87,13 @@ h3 {
 #calc {
   border-top: solid 7px hsl(212, 86%, 64%);
 }
+
+@media only screen and (max-width: 480px) {
+  .content-box {
+    width: 75%;
+    height: 50%;
+  }
+  .content-boxes {
+    flex-direction: column;
+  }
+}

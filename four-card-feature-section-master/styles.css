@@ -110,6 +110,7 @@ h3 {
   .content-boxes {
     flex-direction: column;
     align-items: center;
+    margin-top: 50px;
   }
   .stacked-boxes {
     display: flex;

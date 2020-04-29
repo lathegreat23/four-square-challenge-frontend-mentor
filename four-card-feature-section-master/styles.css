@@ -104,6 +104,6 @@ h3 {
     align-items: center;
   }
   .stacked-boxes {
-    align-items: center;
+    align-content: center;
   }
 }

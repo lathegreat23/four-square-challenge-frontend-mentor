@@ -90,10 +90,10 @@ h3 {
 
 @media only screen and (max-width: 480px) {
   h1, h2 {
-    font-size: 24px;
+    font-size: 26px;
   }
-  p {
-    font-size: 12px;
+  h3 {
+    font-size: 18px;
   }
   #top-text-main {
     width: 75%;

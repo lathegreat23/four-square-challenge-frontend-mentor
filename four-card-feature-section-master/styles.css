@@ -98,11 +98,11 @@ h3 {
   .content-box {
     width: 60%;
     height: 40%;
+    margin: 0 0 20px 0;
   }
   .content-boxes {
     flex-direction: column;
     align-items: center;
-    margin: 0 0 20px 0;
   }
   .stacked-boxes {
     display: flex;

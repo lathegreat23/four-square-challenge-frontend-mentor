@@ -90,14 +90,17 @@ h3 {
 
 @media only screen and (max-width: 480px) {
   h1, h2 {
-    font-size: 20px;
+    font-size: 24px;
+  }
+  p {
+    font-size: 12px;
   }
   #top-text-main {
-    width: 50%;
+    width: 75%;
   }
   .content-box {
-    width: 60%;
-    height: 40%;
+    width: 75%;
+    height: 50%;
     margin: 0 0 20px 0;
   }
   .content-boxes {

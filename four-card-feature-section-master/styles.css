@@ -96,8 +96,8 @@ h3 {
     width: 75%;
   }
   .content-box {
-    width: 75%;
-    height: 50%;
+    width: 60%;
+    height: 40%;
   }
   .content-boxes {
     flex-direction: column;

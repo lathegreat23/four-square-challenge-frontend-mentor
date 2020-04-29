@@ -109,7 +109,7 @@ h3 {
     align-items: center;
   }
   .content-box-title {
-    padding-bottom: 0;
+    margin-bottom: 0;
   }
   
 }
